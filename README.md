@@ -6,6 +6,7 @@ https://github.com/creationix/nvm/blob/master/README.markdown
 
 ## Install React Native
 ~~~
+$ brew upgrade && brew update
 $ brew install watchman
 $ npm install -g react-native-cli
 ~~~
