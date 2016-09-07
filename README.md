@@ -11,6 +11,13 @@ $ brew install watchman
 $ npm install -g react-native-cli
 ~~~
 
+## Fix brew doctor
+~~~
+$ brew doctor
+$ brew unlink [name]
+~~~
+
+
 ## Install android SDK
 ~~~
 $ brew install android-sdk
